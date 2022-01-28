@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-1
-1
-1
-=======
-
-
-
-
-andre
-a
-b
-c
->>>>>>> andre
+zin 1
+zin 2
+zin 3
