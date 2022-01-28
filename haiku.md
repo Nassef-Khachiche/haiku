@@ -2,7 +2,6 @@
 Blinding eventide
 A female, camel waddles
 because of the pig
-
 # Andrzej
 
 
