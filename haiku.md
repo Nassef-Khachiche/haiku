@@ -1,5 +1,4 @@
 # Julian
-<<<<<<< HEAD
 Blinding eventide
 A female, camel waddles
 because of the pig
@@ -7,7 +6,6 @@ because of the pig
 Wet mean solar day
 why a private, red car drives
 enjoying the house
->>>>>>> Nassef
 # Robin
 
 
